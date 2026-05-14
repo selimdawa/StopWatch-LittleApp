@@ -1,4 +1,4 @@
-package com.example.stopwatch_littleapp
+package com.littleapp.stopwatch
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

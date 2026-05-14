@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Stop Watch - Little App</string>
+
+    //Theme
+    <string name="basic_theme">Basic Theme</string>
+    <string name="sec_theme">Sec Theme</string>
+
+    <string name="stop_watch">Stop Watch</string>
 </resources>

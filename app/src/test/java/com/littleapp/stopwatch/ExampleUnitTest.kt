@@ -1,4 +1,4 @@
-package com.example.stopwatch_littleapp
+package com.littleapp.stopwatch
 
 import org.junit.Test
 
